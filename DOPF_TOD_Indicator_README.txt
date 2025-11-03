@@ -1,17 +1,13 @@
 This readme file was generated on [2025-11-02] by [MACKENZIE DOPF]
 
-*Note:
-[text within square brackets should be changed to specific information about your dataset.]
-*Help text within asterisks should be deleted before finalizing your document**
-
-# GENERAL INFORMATION
+GENERAL INFORMATION
 
 Title of Dataset: TOD Indicator Results 
 Author/Principal Investigator Information
 Name: Mackenzie Dopf
 ORCID: N/A
 Institution: University of Calgary
-Address: 2500 University Drive NW Calgary Alberta T2N 1N4 CANADA
+Address: 2500 University Drive NW Calgary AlbertaÂ T2N 1N4 CANADA
 Email: Mackenzie.dopf@ucalgary.ca
 
 
@@ -36,9 +32,9 @@ Was data derived from another source?
 [producer] Calgary Open Data [Distributer] City of Calgary (2025), Parks Sites. Retrieved from https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/i9fu-gjqj 
 [producer] Calgary Open Data [Distributer] City of Calgary (2025), Community Services. Retrieved from --------!!!!
 
-# DATA & FILE OVERVIEW
+DATA & FILE OVERVIEW
 
-## File List: *list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description*
+File List:
 TOD_Indicator_Totaled_Results
 TOD_Indicator_Schools_Results
 TOD_Indicator_Cmmunity_Services_Results
@@ -46,22 +42,12 @@ TOD_Indicator_Stores_Results
 TOD_Indicator_Parks_Results
 TOD_Indicator_Zoning_Results
 
-* Relationship between files, if important: The totaled results cumulates all the ranking values of the other datasets into one table. 
-* Additional related data collected that was not included in the current data package: 
-* Are there multiple versions of the dataset?
-	* If yes, name of file(s) that was updated: 
-	* Why was the file updated? 
-	* When was the file updated? 
+METHODOLOGICAL INFORMATION
 
-
-# METHODOLOGICAL INFORMATION
-
-## Description of methods used for collection/generation of data: 
-*include links or references to publications or other documentation containing experimental design or protocols used in data collection*
+Description of methods used for collection/generation of data: 
 I have 5 categories, and their Shapefile data was downloaded from the Calgary Open Data Portal and opened in ArcGIS. My categories are schools, stores, community services, parks, and zoning.
 
-## Methods for processing the data: 
-*describe how the submitted data were generated from the raw or collected data*
+Methods for processing the data: 
 First, in ArcGIS, I created a 600m buffer radius around each of the LRT stations. 
 
 I then queried three of my five categories to break the tables into manageable and meaningful categories. Zoning was reduced Commercial [C-COR1, C-COR2] Mixed Use [MU-1, MU-2] and Residencial [M-H1, M-H2, M-H3, M-X1, M-X2]. Schools became elementary, junior high, high school, post secondary. Community Services were divided into Law and Health [court, PHS clinic, hospital, social deviance center], and Entertainment and Education [major attraction center, community center, library, visitor information]. I then summarized either the category or sub category separately of the data to count points or area within a 600m Euclidian distance from each LRT Station.
@@ -119,4 +105,5 @@ Number of cases/rows:47
 Variable List: The zoning are split into 3 catagories each having their own sub categories. Commercial: C-COR1, C-COR2. Mixed Use: MU-1, MU-2. Residencial: M-H1, M-H2, M-H3, M-X1, M-X2 and all are measured in hectares. Each hector area has a relative percent coverage area of the 600m TOD buffer. *list variable name(s), description(s), unit(s) and value labels as appropriate for each*
 Missing data codes: N/A
 Specialized formats or other abbreviations used: N/A
+
 
