@@ -1,0 +1,66 @@
+﻿Area Buffer/hectar,Comercial,,,,Mixed Use,,,,Residencial,,,,,,,,,,,,,
+113.072474,C-COR1 ,,C-COR2,,MU-1,,MU-2,,M-H1,,M-H2,,M-H3,,M-X1,,M-X2,,,,Average TOD Zoning/Station,2.45397445
+100,Area,% Area,Area,% Area,Area,% Area,Area,% Area,Area,% Area,Area,% Area,Area,% Area,Area,% Area,Area,% Area,,Rank,,Total % Supporting Zoning
+45 Street SW Station,0,0,0,0,1.055514,0.933484484,0,0.825562978,0,0,0,0,0,0,0,0,0,0,,1,City Hall Station,0
+Sirocco Station,0,0,0,0,0.503552,0.445335617,0,0.393849716,0,0,0,0,0,0,0,0,0,0,,2,1st Street SW Station,0
+City Hall Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,3,Fish Creek - Lacombe Station,0
+1st Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,4,Centre Street Station,0
+Dalhousie Station,0,0,0,0,0,0,0,0,1.588261,1.404639824,2.703275,2.390745426,0.690688,0.610836551,0,0,0,0,,5,8th Street SW Station,0
+Southland Station,0.176003,0.155655036,0.819596,0.724841308,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,6,69 Street SW Station,0
+Fish Creek - Lacombe Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,7,Canyon Meadows Station,0
+Centre Street Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,8,Barlow/Max Bell Station,0
+Bridgeland Station,0.010445,0.009237438,0,0,5.740231,5.076594503,3.098699,4.489681992,0,0,0,0,0,0,0,0,0,0,,9,City Hall Station,0
+8th Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,10,Whitehorn Station,0
+Marlborough Station,0,0,2.700325,2.38813648,0,0,0,0,0.416184,0.368068359,0,0,0,0,0,0,0,0,,11,Martindale Station,0
+69 Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,12,7th Street SW Station,0
+Sunalta Station,1.228676,1.086626972,0.495076,0.43783954,0,0,0,0,8.193788,7.246492192,0,0,0,0,0,0,0,0,,13,Anderson Station,0
+Lions Park Station,0,0,3.555878,3.144777747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,14,6th Street SW Station,0
+Sunnyside Station,5.046489,4.46305703,0.439492,0.388681687,0,0,0.115183,0,0,0,0,0,0,0,0,0,0,0,,15,Shawnessy Station,0
+Canyon Meadows Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,16,4th Street SW Station,0
+Barlow/Max Bell Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,17,Somerset-Bridlewood Station,0
+City Hall Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,18,McKnight Westwinds Station,0
+Downtown West - Kerby Station,1.788901,1.582083541,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,19,3rd Street SW Station,0
+Whitehorn Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,20,University Station,0.36941263
+Martindale Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,21,Saddletowne Station,0.44739708
+Erlton/Stampede Station,0,0,0,0,0,0,0.006508,0,0.135556,0.119884173,3.507952,3.102392542,0.14362,0.127015882,0.227916,0.201566298,0,0,,22,Crowfoot Station,0.639550878
+SAIT/ACAD/Jubilee Station,3.314487,2.931294313,1.05654,0.934391866,0,0,0,0,0,0,0,0,0,0,0,0,0.479264,0.423855588,,23,Sirocco Station,0.839185333
+7th Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,24,Southland Station,0.880496344
+Anderson Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,25,Zoo Station,1.066050283
+Chinook Station,0,0,1.286935,1.138150564,3.718376,3.288489115,0,2.908302082,0,0,0.785736,0.694895913,0,0,0,0,0,0,,26,Downtown West - Kerby Station,1.234350811
+6th Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,27,Tuscany Station,1.387782494
+Heritage Station,2.458237,2.174036627,1.340209,1.185265478,3.2606,2.883637268,0,2.550255748,0.847752,0.749742152,3.257159,2.880594087,1.152868,1.019583245,0,0,0,0,,28,Downtown West - Kerby Station,1.582083541
+Downtown West - Kerby Station,1.395711,1.234350811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,29,45 Street SW Station,1.759047462
+Tuscany Station,0,0,0,0,0,0,0,0,0,0,1.5692,1.387782494,0,0,0,0,0,0,,30,Victoria Park/Stampede Station,1.880178194
+University Station,0,0,0,0,0,0,0,0,0,0,0.417704,0.36941263,0,0,0,0,0,0,,31,Banff Trail Station,2.232717575
+Saddletowne Station,0,0,0,0,0.26846,0.237422947,0,0.209974133,0,0,0,0,0,0,0,0,0,0,,32,Brentwood Station,2.459148457
+Shawnessy Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,33,Marlborough Station,2.756204839
+Banff Trail Station,0,0,2.324225,2.05551795,0,0,1.199237,0,0.200364,0.177199625,0,0,0,0,0,0,0,0,,34,Rundle Station,3.04245753
+4th Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,35,Lions Park Station,3.144777747
+Rundle Station,0,0,0.301618,0.266747502,0,0,0,0,0,0,3.138564,2.775710028,0,0,0,0,0,0,,36,Erlton/Stampede Station,3.550858894
+Zoo Station,0,0,0,0,0.639682,0.565727429,0,0.500322854,0,0,0,0,0,0,0,0,0,0,,37,Franklin Station,3.738840369
+39 Avenue Station,0,0,6.189505,5.47392728,1.344607,1.189155019,0,1.051675069,0,0,0,0,0,0,0,0,0,0,,38,SAIT/ACAD/Jubilee Station,4.289541768
+Victoria Park/Stampede Station,0.432692,0.382667845,0.964425,0.852926416,0,0,0.290291,0,0,0,0.346723,0.306637847,0.382124,0.337946086,0,0,0,0,,39,Dalhousie Station,4.406221801
+Franklin Station,0,0,0,0,2.243486,1.984113304,0,1.754727065,0,0,0,0,0,0,0,0,0,0,,40,Sunnyside Station,4.851738718
+Crowfoot Station,0,0,0.723156,0.639550878,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,41,39 Avenue Station,7.714757368
+Westbrook Station,1.691064,1.495557619,0.460668,0.407409499,4.130503,3.652969511,5.509947,3.230644366,0.465353,0.411552859,0,0,0,0,0,0,0,0,,42,Chinook Station,8.029837673
+Somerset-Bridlewood Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,43,Sunalta Station,8.770958704
+McKnight Westwinds Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,44,Westbrook Station,9.198133854
+Brentwood Station,0,0,1.262934,1.116924354,0,0,0,0,0,0,1.517686,1.342224103,0,0,0,0,0,0,,45,Bridgeland Station,9.575513934
+Shaganappi Point Station,0,0,0.234593,0.20747136,6.867312,6.073372022,0,5.371220605,0.267294,0.23639175,0,0,0,0,0,0,0.178637,0.157984515,,46,Shaganappi Point Station,12.04644025
+3rd Street SW Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,47,Heritage Station,13.44311461
+,,,,,,,,,,,,,,,,,,,,,,
+% sumed,,15.51456723,,21.36255991,,26.33030122,,23.28621661,,10.71397094,,15.25039507,,2.095381764,,0.201566298,,0.581840104,,,,
+comercial,,36.87712714,,,,49.61651783,,,,28.05974777,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+area sum,17.542705,,24.155175,,29.772323,,10.219865,,12.114552,,17.243999,,2.3693,,0.227916,,0.657901,,,,,
+comercial,41.69788,,,,39.992188,,,,32.613668,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+total TOD Area,,,,,,,,,,,,,,,,,,,,,,
+5314.406137,0.007846197,,,,0.007525241,,,,0.006136841,,,,,,,,,,,,,
+% comercial,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+total zoning area,0.02150828,,,,,,,,,,,,,,,,,,,,,
+,,Haritage zoning area,12.316825,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,total,zoning,,,,,,,,,,,,,,,,,,,,
+,5314.406137,0.02150828,,,,,,,,,,,,,,,,,,,,

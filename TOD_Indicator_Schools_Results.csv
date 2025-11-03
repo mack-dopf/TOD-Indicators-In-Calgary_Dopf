@@ -1,0 +1,54 @@
+﻿,,,,,,,,
+,Count of Schools,,,,,,Average Schools/Station,1.531914894
+,Elementary,Junior High,High School,Post-Secondary,,Rank,,Totals
+45 Street SW Station,1,0,0,0,,1,Sirocco Station,0
+Sirocco Station,0,0,0,0,,2,Dalhousie Station,0
+City Hall Station,1,1,1,2,,3,Southland Station,0
+1st Street SW Station,1,1,1,2,,4,Bridgeland Station,0
+Dalhousie Station,0,0,0,0,,5,Canyon Meadows Station,0
+Southland Station,0,0,0,0,,6,Downtown West - Kerby Station,0
+Fish Creek - Lacombe Station,0,0,0,1,,7,Erlton/Stampede Station,0
+Centre Street Station,1,1,1,2,,8,7th Street SW Station,0
+Bridgeland Station,0,0,0,0,,9,Anderson Station,0
+8th Street SW Station,0,1,1,0,,10,Chinook Station,0
+Marlborough Station,1,0,2,0,,11,6th Street SW Station,0
+69 Street SW Station,0,2,3,1,,12,Downtown West - Kerby Station,0
+Sunalta Station,1,0,0,0,,13,Shawnessy Station,0
+Lions Park Station,1,0,0,0,,14,4th Street SW Station,0
+Sunnyside Station,1,0,0,0,,15,Rundle Station,0
+Canyon Meadows Station,0,0,0,0,,16,Zoo Station,0
+Barlow/Max Bell Station,1,1,1,0,,17,39 Avenue Station,0
+City Hall Station,1,1,1,2,,18,Crowfoot Station,0
+Downtown West - Kerby Station,0,0,0,0,,19,Westbrook Station,0
+Whitehorn Station,1,1,1,0,,20,McKnight Westwinds Station,0
+Martindale Station,1,1,0,0,,21,3rd Street SW Station,0
+Erlton/Stampede Station,0,0,0,0,,22,45 Street SW Station,1
+SAIT/ACAD/Jubilee Station,1,0,0,1,,23,Fish Creek - Lacombe Station,1
+7th Street SW Station,0,0,0,0,,24,Sunalta Station,1
+Anderson Station,0,0,0,0,,25,Lions Park Station,1
+Chinook Station,0,0,0,0,,26,Sunnyside Station,1
+6th Street SW Station,0,0,0,0,,27,Tuscany Station,1
+Heritage Station,1,1,1,0,,28,Saddletowne Station,1
+Downtown West - Kerby Station,0,0,0,0,,29,Somerset-Bridlewood Station,1
+Tuscany Station,1,0,0,0,,30,Shaganappi Point Station,1
+University Station,1,1,1,0,,31,8th Street SW Station,2
+Saddletowne Station,0,0,1,0,,32,Martindale Station,2
+Shawnessy Station,0,0,0,0,,33,SAIT/ACAD/Jubilee Station,2
+Banff Trail Station,1,1,0,0,,34,Banff Trail Station,2
+4th Street SW Station,0,0,0,0,,35,Marlborough Station,3
+Rundle Station,0,0,0,0,,36,Barlow/Max Bell Station,3
+Zoo Station,0,0,0,0,,37,Whitehorn Station,3
+39 Avenue Station,0,0,0,0,,38,Heritage Station,3
+Victoria Park/Stampede Station,1,1,2,0,,39,University Station,3
+Franklin Station,4,2,0,0,,40,Victoria Park/Stampede Station,4
+Crowfoot Station,0,0,0,0,,41,Brentwood Station,4
+Westbrook Station,0,0,0,0,,42,City Hall Station,5
+Somerset-Bridlewood Station,0,0,1,0,,43,1st Street SW Station,5
+McKnight Westwinds Station,0,0,0,0,,44,Centre Street Station,5
+Brentwood Station,0,1,3,0,,45,City Hall Station,5
+Shaganappi Point Station,1,0,0,0,,46,69 Street SW Station,6
+3rd Street SW Station,0,0,0,0,,47,Franklin Station,6
+,,,,,,,,
+Total schools in TOD Zones,23,17,21,11,sum,72,,
+Total schools in calgary,385,202,111,7,sum,705,,
+Percent of schools services in TOD,0.05974026,0.084158416,0.189189189,1.571428571,percent sum,0.10212766,,
